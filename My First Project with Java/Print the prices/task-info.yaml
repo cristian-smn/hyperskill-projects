@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/calculator/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MyFirstProjectTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/380/stages/2266/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 23 Apr 2026 12:20:25 UTC"
+record: -1
