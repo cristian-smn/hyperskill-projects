@@ -1,0 +1,38 @@
+[1;31m
+Start test 1[0m
+> Marry
+> 1
+Hello! My name is Marry.
+I was created in 1.
+Please, remind me your name.
+> 0
+What a great name you have, 0!
+Let me guess your age.
+5Enter remainders of dividing your age by 3, 5 and 7.
+> 5
+> 10
+> 1
+9Your age is 50; that's a good time to start programming!
+ANow I will prove to you that I can count to any number you want.
+> 2
+0!
+1!
+2!
+'Let's test your programming knowledge.
+Why do we use methods?
+)1. To repeat a statement multiple times.
+:2. To decompose a program into several small subroutines.
+13. To determine the execution time of a program.
+,4. To interrupt the execution of a program.
+> 3
+Please, try again.
+> 4
+Please, try again.
+> 5
+Please, try again.
+> 6
+Please, try again.
+> 7
+Please, try again.
+> 8
+Please, try again.
