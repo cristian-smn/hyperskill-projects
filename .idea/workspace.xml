@@ -4,31 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55664a10-d4b1-47fa-a84f-cda2de48187c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/classes/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-classes-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/classes/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-classes-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/classes/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-classes-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-headers-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/reports/tests/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-reports-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/reports/tests/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-reports-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/reports/tests/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-reports-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/test-results/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-test-results.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/test-results/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-test-results.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/test-results/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-test-results.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/tmp/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/tmp/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-tmp.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/tmp/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-tmp.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/CoffeeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/ConsoleUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/Main.java" afterDir="false" />
+    <list default="true" id="b2d4d50d-6e95-4904-a910-04392ac25f22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/classes/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/generated/sources/headers/java/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/reports/tests/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/test-results/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/build/tmp/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe (Java)/task/hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/src/tictactoe/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" afterDir="false" />
@@ -42,58 +40,368 @@
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/HEAD" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/HEAD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/01/0169d584833ed6a7a2526acfacd916ba4b6c6895d579e5c1270a00dd80d2cc5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0e/0e65ee911bb3fe2d3ecf0e774d90017593ce8454ed7213bbe135e98ba6fac57d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/27/271b7edbab8273ad96d2c1e5cda284adf29ad306344fe8b0055a4fdd16f4dbe8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2a/2aef0bd8234e9b85097dece3e2ec8662971b633ef3257668b8f2005fb51cbd3e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2e/2e913c21c8b33bfac6b203229fc5383cf841d75bfa1988c689788850f5eca0e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4a/4a7c719ed2004d4f12565b642f5420df9c4e51dedfde0911552c1ae48ce82b1c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/53/53005f6c074e09c0101daf1b87a3668017fe3af4580059e599271b140276546c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/54/54a23cebb49b8531bbb30842ebc7afc78c3db76345e1463c4ed39900432b7402" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/56/569914df7e3949ea8b1b8802efed8c82a3859dda2208a1694ea78bc17fdecef1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/56/56edad6f0ef8ece82e35e4aad66c3459f62bcda04462666cbad1073d34bb82b3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/654d1b6bb6c4a92806925b42e159954ab4a769e2c3a79d1a71adc190e3d84e2c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/65d8c0238112670eb8d961773d1dd151d76e144c6eaa7e9eeeae0926f63f0697" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73e47976ad4d311f5a01595616dcbf6550d88545cabd466de723e2ec44442ef6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7e/7e8ccdafeed5c80f74f547ebb75ed232fbc56f6ad3b0a69a13016bb5d78c83db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/89/892c6676a9a8fe77b265a4275da8fbafb9ffd5830feedd0e7aeefcfe3da9dda8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/90/90ab386080b19861a4c7aaa1d551a11577976d5d9f0c2934a2e23fd84eea98e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/93/934859b24b9b1a23d4ad5503bcde1213e47965d36e4a286a7f34edf2c7d470fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/95/954878f30edb3769e8ceeeaf2acdb86e935a2eb29f383dff3cc8b5a1e040cd09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/95/958e918d9b87f833dc63468a696f303059ad4da78c2ede4c4d4b4b44a7a09da4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/98/98094facaec6ba5d9acd49e950bd4eb0ba13e7ececfef805b5d121ff2d8b5a8b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/98/981e4a7ea2ff909c3fc1ac85d65d0780942f7d0193b09ad80e0ed02ad6a6da67" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9d/9d2365781796f4c91dd230e409199daddd91345a3190e72ec5ad3a38aad3a926" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9e/9e96015c2dfdcb994c3e70cd655b4044fb50b490587a87b9ddd36d8ee7244b70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b3/b3991ea3091c8e480013417c4ad7ca20f83f828d37f5bb9431a8432324347ab4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b4/b4df83f1bc019212fb0de73658cea58f83726c3aca5f811f5fffa0ce13d00e3b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b4/b4edaea5e16bdb894d89273e5243c7e4fda99167651ad7d24921186fd7bac252" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b5/b5406e645a990f95b45b18e45d1161f2acc5e89f475bb2ab7ad8006b6e1f0a09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b8/b829e60bca131590e63b69318ea2bc0493c606995465617a35295419d2a20ee5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ba/ba2db3a8c9255e7336d2123cd81442dd67985d78366aef9bfd2a03cc933febc8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bd/bd03ab16ac3397d989505ff918418ea3e239323341edb45bca201b2d98d7dfc9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c6/c679b3594a5a33dfe6b7257a57ce669c54fdd988ad25d396d53918d7801f6064" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c7/c7933c6e93e2d6ce2b5ca5398c46fbf8a4defa4ba709bcb58fd0e0d09852edfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cd/cdad613e79cb1d586aca51dc7665199b3476642f6232a22dba5ca55b3191869f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d3/d3b73e63fcefd06f5aa6f70c757773b91c5722cafd2f15a06be6e9b26de76ac0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d6/d6bce3bc867aa9724e6abf81b9be308ce544f473fe7c447a294d88e7bd61df6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e1/e1f04596e56f8bcfa6cd042a382c2207bc4b5d9b8721e63716abc75683385bf2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e4/e4fc6971de3f150660f8d47bb591a312b5e4d40ca9cf5185f2407916e411da13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/eb/eb6f30ac91c7e420f96b65da8a7bb0733a34725cb29cdd88b0dca1f58bd7c3ff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ed/edbc2505d7bfb4daed4b58bbebe76cbbfdd196b7ac828d090bab101c65c40d5d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f3/f31e6717f6b2c05f8d96d449c2248545b44dcbe851595099e0384eefc30caf71" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1147" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1148" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1149" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1150" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/00/00c6aa886931650df481682e19a125f1ecc52958a541434c33566558c478eb59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/01/0107123b8cd3f3c8b25fd0df57219777968b22f92d6266ad41f33e3f687ef04b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/01/01c71b4b38cfcf84d93cb877b9d6048971a0e532d1306f149ba7f76d9e408184" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/02/02327ee9f53332a684cb19ee8fe2ca0b97bdeca9caaeec459a3333a219097799" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/02/0255bf4e29c4150d04ee900b199e9a5dffc5e329a8845c7f7ecb11f49ef7167c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/03/033a1c4bb373bc67d14b99a269f9a161d090adcfb126e6580a6557b768e1876f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/03/033bd72980932bc368bbd12b3fd62287d08cd7ccd7597e178478baaaec7504eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/04/04516dcafafab115a5604028f2773df5baa89dac6825c92a27249c520ff46bb0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/05/059ae12909ada1e2c7eced634f6c3c20f6b77466594256b5956f0331aeb01177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/05/05b13431bd233a0d0e35d75b8b06db1b59c16d7b2517217ee9ad59fbb90623c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/05/05d9d4b287b5673a715cddb654ae02ceef30beda98fcb847119116f3f5e99bd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/05/05ea59adf5984ddb2b6dff23893edbd049e0119abf31834fcde83859a5da66b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/06/060212d6f32f6ac7e9fc340b0ebefada41bbf3db34f26f1af77bac381e055a86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/07/071ceb4603b53cdd709d2eb5b267caf6362c491ffb6b34dd8c319ad7ee04bd5c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/07/077522558e24685ca3e6970cc4c799459253b63d5346653a49f5bb474b6c2fc7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/08/087b80c0a4d66a403bace604340d512bad3607c49232ed81da666f16afa46b67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/08/087b9214bb61798258bb7b9261567121e6abdf3da9259793c1bcf57084d6a3f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/08/08a3c12e506e03862dfc142d8fafddb45bfa0bdbaab993cd1cc677f1a676f69a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/09/09854ecc26a745e778c3adf5d0ff1282b629817f5f9aace23d4b703d76ff13ce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/09/0997fe905200bd599289c04ca159c1168aca690d054e8f670830074196eda59f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0a/0a3f4c47f937959082c888659f32f26c1c6c6ec66294790d3c728a1fefc2f1ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0a/0a692a1ee9680cd3834ad37c984bc31f6b1212564ccdea014be24f6334200bcc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0a/0a91cf3c0c1563fdb2f2d2c3ef07af7ad4d90ce655157def3cac858cca1f2266" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0a/0ac69dca4c127f32a5834b2c50100cb03118dc79b0026d53c281bfe4bc382820" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0b/0b52351d7696ad210375f47b02ea07349f59094a04ab649f52ad932e7687493b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0b/0bdef985a964fb2ecd8b290d0eaf86f64dad38b7162d5dd3d08c34efb192f99d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0d/0d95a48f3d2e7551e4a4b849eb7adc1aadbc5ef9172a2d431550d7c5343fb971" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0e/0e3e58eef524aa9982d102f7a581686bd781d56125088af5ced7324d344ebac1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/11/11604dd08fbaef0b7c8828da9f13865deac8d495a2a6b215b4f642eaaacc6e69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/11/11fa920338c734f35ba1b4ba187a25d8aea096f2da2b7d9d07bee30203895f0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/12/12452b1ba9072d588e02327d4d6ab0ca804bdb24eef4ab73e5f8d4ba8e128b7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/14/14959345b6594726232579e291f720dd6ea422d0c33b16ac61e947023f4e5118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/14/14d0b05225ca81e478705f227357ba32473d1f305164c1915146fd07323cfb06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/15/1591bc86a752c1ba40c1164d99a0d3bb3cb5ce417862b85b9096e437a62135ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/15/15e9b454a125a89da191c8009e677dc24843148ac404a87c66062bf3f05d05ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/16/163a178e59ce7c9df3bc1f250da184e2b934f43a54d83abf7167f0f2b1d985e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/16/1645b3882c435819752a3e20dd55490cf46af3f6cca32e9bfde26f4e108e36c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/19/19fe031909985042252f55cd849aa086613deee1d172258ef9c365e2623229b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1a/1a00bbb0dbb18f56ceecc722c90bf3f6b6868b79be259e5e15271ab07b04500d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1c/1c4fe804bc1d17c4aaf1bf153cf0ba2f4b0c4b2c0bd74c29708d74c74f83cbc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1c/1c7c924a93bb33d1369951019491ebcb3d02dbc51886038002cb7493328af85c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1d/1d383f5aa1e002da49789c952591b0d2aadef63fb0856c180899a98ff9007695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1d/1dd2d20dd1d335985d9c1664dc2f23d7f4bd997d5112c5ad0208dea2ddff0c94" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1e/1e51973237a1de061ab68416f18df55c2f7e1a80599a8a6d1401f55d816936b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1e/1e593d3433780e5dae75e749dd2ad2a3f0de7ba013124f51411394b003648b7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1e/1ed7a4890bec0b13a104b8f2ff71aaa408d4bacac8b4bb7ee8f4569dc693471b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1e/1efe9a3ce12a458d93c0a6bfa2a93c862039128a71ff462d32ed0b31c29cee6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1f/1f6c689eb936ac0b7c9563f597a3d17b9e333511efbe100ff695c6d09c706e00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/20/20c7e90a4f01ab22357fb249f56956403a12017afdd21c8bd4a1811365be668e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/21/2180062c5a945113b757fbecfb64ff86dda57aa0511c7477f18023db579c42bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/21/218288449be6de85ef5c566d04ade9752879cf27c869b445bb533e9dbafa6caf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/22/22f8f77db79255b375c5af3f9d2f133304e6a7bcb07ad598f59ef51ab3cd414f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/24/249fb0aadbf23988ba3d53df7f9037b2f16671b14930867df8014cad7408a95f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/25/25421ca70700333a3d940988ae7585a8b49cd31d677925a6f29bcfe76c74fbe1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/25/2580f0ca85c9091d8e4c470a149871d11e0a5ce4f3b50551a06c41f7524cbacb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/26/26a46a9a487859476ce740f851c54fc726b2f24745972516ef84f2dc2f15e226" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/26/26b12e43ef0d3e862343662b6846d3ce4067c1b1819e0ad9f53dc4b6372938c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/26/26c0459c6c3331e86dea272c7cfd3a5f0c05cc147efd1b4aceb6260a6d8d7843" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/27/2746126142321527d215c6897d2485c5a93edf23458446c6a41dc393860eb384" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/28/28a50e9706e56bc0b31c802a260b2d97156b037db8da3074229facc053d9ea95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/29/29057415d2ede79de1443b69b9d5b91aafe081dea00b9fd04d4104070b29df77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/29/296bcd341ea0fa96d3465a60a546691c61230ef8b74e3a261385a80a05137adb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/29/299a1fda60da20bcb32eb4c1805309777db72ca5d32f8664946c6e1a0fe60212" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2d/2d5d1bd8db38569e6638a4fd8712219bb16e22f4d07f5d56ce77fa4ac4db20ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2e/2e2b811075651b0db59713799f93110bfcffa5ec6d9724b8eabacf4eb86026ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2e/2e849ce4980f8ac97eba56b5fcaf1bb991ea96c479aad22eb971341c3a9b939b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2e/2ecc479383c2ee851f272b0878dd327488602e6f9e4475f16c88008350e1329b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/30/300c199a164cb4953ab22f3e3cecb69365fe4e9f4809553e96ab87a90cb15850" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/31/315e71ca3d45e923caa15cc214a441642fe622b840c462332bbc8cac792d3265" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/32/3219d64b2f60eb5eb15a66b1142f88bb3a30a38fc6ac3b501fe280fc355b4ba1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/32/3289075786248420009ef60a3979f15ae044d2b0acd8dc451307806b304a373b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/32/32cc4a474559a97296cd0c17a9f660c836223c0b0eb078dede29ff511b57f890" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/33/330656d0943677b3e4a6e0c0f3caa16f80d556d8dbf5b4edddc043d43ebdf56e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/33/33adf92b986fa84fc3006b6ff580b18fc63616e52864dab3d87b19f93fbf82f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/33/33bc3108c1e79ab7fbf8239f038e084ae7989b706577275b265ba94b418e8c38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/33/33fff0c6851ff9a5f18f5d969a8bac414ad460f669560951fab4922982c2b3b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/34/3407ffbbc9c688ca3608a059b2c9225e50354eff427e890eb5aa02ca59802835" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/34/3491d529ec473e59f42672e1f2fd0b21e638be571f0dfe6dcb971e0f9366e2d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/35/3519bbd0197f579b0a98cfc0ee2d0172e85048624f67d4c7679236453bb79c1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/35/35d121df959541e875b5129038264d7e037210268eb83b88ab7b3ac64d1b673f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/36/36a6c1e8de149b1f622e110e3678ba84e412ee603022e6304d59b460a3cf0561" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/36/36fc8f2a41888783239f13b95a15c414b5766aa26845ac90ab2031d1c08fd8cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/37/372e904985710218aa0c86e231cc807c3b19c44d3ab3cb3467f5064b61a3d214" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/38/38f6330ad2e2961a3a84a255cd0b47f028ed3653b66fe4e2a6292b16fa57d26a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/39/39ecf10a605a82dc000b0ff569cfc6c9203031e18e4a606cdd92e9f0c10bb416" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3b/3bd659bdf7ca65745b97ab40a029aa8b86b7cdd55a8dd836681ea5b94f24331f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3c/3c1a1d184c3619eb0d93c9495bbb1daf0e35570cf805790b0be42ef0c111f178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3c/3c6e4f59a6c3110d5cb8a620c15d3fd04b1a73da73f933ff1d87696e63189a63" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3d/3d7f705fedc68594bedfa405e3f7b94b4592274ebbba425b59f6f00d2051b86b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3d/3dfa9bf9cae0d946158aca320180b962ea851d3ab51ae26c5a992e086c929a5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3d/3dfc99bab196d1c6e13005b81d7ec35575bfb022fc0a62a01a98b3774402fd44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3f/3f1d466ea2110853d7cff030192c23c9ef9c1d3fe808e884665dec1b25b063d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3f/3f1f31ce4497424cd1c815390272dae9bc4cac03cf90951c2362b0f1d98bd95e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3f/3f93c3d93bbe00317fc44ae18eab663ef8f26a42ef5330fd0a88e756e291e324" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/40/4094b2e026b113b37a940073b00a7613b91f370328aaed39d8f6b9bf592cc7a2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/40/40c4b95c3011278b47ec7be9e2f8347c0c926cc8a6b0f4c3c7e05cbab22186a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/41/41d9c6911e8643f80c4131cb78d22d0d228fad29f76b608c773a9f1dae1f2384" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/42/422653004315f5420d5fcc42b107908732487fde3f62a49e42f5f8ed53f89dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/42/427d68fd4a11fa5f182f2efa400d102ff7825a7704236c9e4dde19e0d50dae85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/43/431943330792b7c2a145c755ddba29e534e97adb2159293607397f7a951d808c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/43/435ce8ab1fb47b47efb87a64e7634c2f33bdc499749bafeb07540602b836c3c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/46/460ca76cf9c113e7fa6433f9a5e227b99b27d600f24b133cb0c7da8aefc30eff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/46/463ee4bbb7134770f06b7aa32549b5a4994ecdf2d97bd8ee4c95459464e982db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/46/46707aaeb9c4c4f42cd39134222094c82f15df6bc7c5ea598aa9b716eade555c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/47/475de316542e16fa08b54ff575e99410797f14772a3c6a7c6fbf19946e0a88b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/47/47768e338b27f463f977015feeb09b7940649cfa73a7518a3992529f067d6d6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/47/47e6eb90ca627d3ecbf68c5661f797f32215d15c8059b10d713f111b69a55bbe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/47/47f79c41aa589a41db3ecb3e4273ad786b419ce35781a6197cf93410719d2272" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/48/48aadec18d2998e5c9cf708cfccf3abaf44b9971201012d80802bccfae56884b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/49/497033a336cfee455e5ca1312ed3fdf066c843db9228683946f93093883f954c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/49/4971837a79846cfc554ad285d9d1b4a69c1a9d9d0cb1e6a3cf316481007d3fe3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/49/49b6fd89d339b7bcfb48e86efe297e05a366a553218be9916f3123197077e6ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/49/49e720f117444976ad18408ad3ed656550b4378754222800c87ed0ce814c86f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4a/4a2fb2cfce015d0f715e990e0888da29d11102df1e20297b4017bfa7d0ece8fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4a/4ae08a27987086e7e561b01670397759f4c7161ebf234fa07f2ed18a65b1bf46" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4b/4b0028d1b7916eeef2b3b0c8a2e298c518f53a8ab2d5dadca970037b264d41ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4b/4b3d32a661a449481ab5522bd449d514aa1bddfd741dcbe75aa5d48215f71c8f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4c/4c558d9ac5d9620efc6edacd5eb472e4aa306929529b02e80fccf6cac7864274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4d/4d823dd433cf1c79215481354da55f11797dc55b57986d449b2208f062916f45" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4d/4ded6c719ce4e0ee8d90e922fdde7c8d1fb35dcaad185040a6c002d3b3bfbff9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4f/4fd5391f5ab25af862906ae67ad437265c4d1a85e3db81e4fb40a1fe84d96179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/51/5168befb9662176a528a80117b210083483955fe8d9327789f3cd7423517ab20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/52/52fcc7fad3df42a61d8f10c51abd3d472742c909e4c45fc59ad7547935ac9210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/53/5346d11ab61e62664bf9381a590381b614ed4fa2fb876fcc7b7cb520e2be3971" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/53/53b4e5af2d5b7dba81eca5510e36182903317d7d77c5566f7e116e4253cfe513" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/53/53dfc287ab26fa4085ae6479af3d749b74ec468f1597829c48aa69c9e9e76183" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/55/553e3d28a132f0f76a6649bc9d9b2878b825b02223cdf0391915520b9a72d3af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/55/55516176dc5d0929f136177bb07404ed65bd69dc34e0184a2c49fae7dd57b771" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/56/5624d120724a7e9f0c35808a3c637891e18891d8f7219ad2ad58e242c245ceae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/56/562a778f3f17590cc082729026c2c1dfc5223827eea8191d34006bd2d8ef15cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/58/58bdaed3b9eec29456067da9823ba7029de00a127396366ec5c95c55690d3438" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/59/599f2c240adc2e3a5a16615fa3b810debda0ad60382f71900e4db6a1729a9478" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/59/59c4decb7fc9c0b530c72bcb6a585dd5c53f6c91c6b3451594b3b0fd7e6dea5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/59/59c976b61629c7768b33d4606141ed30be4571993d1a2aae8f0416f5fb8fd506" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5a/5abd31c0bba1b2faef01313f0a15adaa30c1df1563ecff12def446a2571d880f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5a/5af5518354bb8fbe301f8a08f022faaa08aa04d7e76677f6868fc2faa8930fd6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5c/5c6b881160c7b5aea7bca0cb442e5fd600b8e1d907c0e6bd4c634b629f37821a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5e/5e1ab049e6e65ccf036c9802281cfd4ce57cb3a64ae3b47fb1fe3d2ea686c2c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5e/5e7ae142c43459cb36c45ef1f612b076104707fbc6ddfdb75ecce0bf1a00cfc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5f/5f32d569ea8ae487c01bcd1d5d83725614e426deae83e906a3a6e8f8e4cf754c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/5f/5ff113d15cce0a9f40e0942e6b26feefc5b5c80bfd77ebbd18cf22e4e9dc1fa5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/62/624361b5695a381d6a26bdb46aff4e71578804737760f9d1d0f8b56cd13d8bcc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/64/64489f054ec49da79a82531a518e4049cddfcff9779b959ea05504dc80410cd8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/64/6487adf80dc5e4cb6897d193e125b871bbcc5d98b31bf6d446b9640350baf37b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/66/664aeac61f93b217c297bd833f9cf1959125a1880a84c28484411f188eeb3f0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/66/6678b89f66edf02df0b40ef493c9efddec2eb4e17335258177e1bf3044b21daf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/66/66cf872a93ce448c2e3af590811044ae7fc03d4313ef7feabead6f361969b468" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/67/6727701bbe0144f2d7bc1e499949c72a5d53881fd63fa478b17c5598ffbc1334" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/67/674a20f2ebfba37a13e227e09e6868a4be443cd76ce1af988b309b4d17ff8cd8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/68/68025d4d4061c7d415fbcf63537e438779589d97a050514bf6d8ebe8126b1f4d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/68/68dd8b168afa926ec7e4f2e1b341fa6e15607dfcde8a2904a3fb91acf60fc6c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/69/690f75fd2990301232ee765812c293ca1b2cbdae62f18011c053b7678d9d5dbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6a/6ac89b5df5c52c8f81474e91ba2f6e0448d71b3d5431299dcc4156825a971ce3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6a/6ad08f97a8315c5dea475d5aeeae54bc1ec46413b91e801f919c1c06f0b077a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6c/6c38fb7be5a7cd7da46f9af1926012c1c2f1546b3f9ed88ae1474c36c19dcaa2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6c/6ca3f5f333269352956e65f4094290744215f5a648facd54840180e55adeb579" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6c/6cbf4af0744747c08b00d15afbfb26c176286233f4e34da8639840e234afcf81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6d/6d1d9096df987d62b1d6dceed95710403c34d1cd4d6a90b090ea555e333fb756" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6d/6d59b011374934d09ae92f7479c1b5543ef50e3df3c6bc20c46d9d2488e58ff9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/6e/6e4ba1093423b5e68daa7c152bbd55713a1c4a1567dff5d00995f7c1e7e06925" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/70/707298fc55da21380b698d9031386f2a263c1501371296c2bb970bc9b0dc8f1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/71/7177a20f971530468fd34e49049b01fb3fe4fe45d4ea0c3bae8083eb5acab9bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/72/7237248adc247ed5b3c2c340571289d63e77b06e38c52d4056e272c38fd3a3ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/72/7240cafe56439fb1809c3eec200cf5b2c3561b02607504fef002268e85daac43" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/72/72d0964d1674a16f0c2599e71b83a8e3d4da56e59cf2278deddb4bc263a9f33a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/72/72fd2fd75d2fa7d1e1b7b827d4ed8f4efaf97364fcd70933e94ffb2210a8229c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/7399829846a75663b53b696557ef126006ef5f49bf28dfb6e3049a5bf17e1cf7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73e18ae442cd1d76fcf4d0cee9da35bf446023e9f3c839a9bc550e89b8fe5e5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73ef42013d4212b82cad9ec2b63eb902b646260a961b03b565231fc9c249ab4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/74/744ddcf668b67be65db9407a5ffee67ca63712db4e91d3067820669bb7a0ebd4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/75/759e611910cd1998f72f81bc9800e0c32258ce8c99375741f6b7b87d46700618" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/75/75a31c6aed2aad1532d8cdecf09cb20fef9d52fa332a48a6e32ee1730457136e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/76/76a331b6233273f25f4c600ad7cdf321a40cd5062c283892b21a8792f7c0eba3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/76/76ea967f3ef2eb11062d5cc34bc859d496dea286c6f3573d6c4fe6550c7acf0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/77/77fbda6537c0f155310aa11445255f3b4e34109cd3e38c775c859f599d2b96da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/78/782e0139e7dc9166802a95b589262695676a9189b6e5afb1254cc8237767da6e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/78/78375f3f9fc7c5a7517a39083e89ffea4861a5ad29582d53d786596764e89bf2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/78/786efb258d253fa5e7786be2e64f89026a7d67934a80aed369858b7f17e0efe8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/79/79039df2f191795034d624447ab50f84bfd76b18798cc4375a3f36c488a4b14e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/79/793a2a07f24d4cc5e1c3cd263f7a8b3cfc157fbc95a16b80bddac2d57c48c7b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7b/7b87f556238a0f7510c477e9fee37f47f344ca1235934d4e3f2e1dedff0f2c6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7b/7be7e18355c3e2cd12812d3f0056bc156f59ac842e47cda91b2e2defd9cf90bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7c/7cc59ae75b350ce6b3611dec34726c1cbcc877a8f32f941d630ee5acfa594c52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7d/7d1b3b48e3b41fcfcc66dfb65dd8b0a559dbd7e11fd28f4635b74d8c56b8fb31" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7d/7dbd33a33690694324fae253ff50f4f655b1dcf66116bc5301ce4b5bfdbae1c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7e/7e7cbaaa72d4bf7ccd3b575f494ca467ca3d9387103ed7bda981bc47a328c7f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/81/819e45bf337b39262f244dbb4464463be82bc46fd7555aa9e557207b06e0e498" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/81/81ef37c14b181a9491eaa27b61f143fa4defd36e8bdb126a0eb151734eefc193" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/82/826ca37f80409189e47c02087e6f9f38c6f9893627ba056d783660da128b019b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/82/82b2b39702929da6b200ca81098ee7b9f2776eef31105cbdb5da4d8ef3ea03b2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/83/834a10f7188275d5826ae1a781a19be0a1eb5abed69f2b9bfed38a54d2f1ec7c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/83/8352b69eb12d27c30e13add6eec0c341fd1883def4d86e8ac117eb4da928d8f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/83/83fe94fcd1c67a2aef60895701e06846786997b0bbc0841c217d40cd26af5186" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/84/840a839a352d3bf1d9460be0d63c895152874e8836445e8e07af743f8dc82c3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/84/849636416637bb56d5f27c12bdbeda52135fe12881132ef96893e4fec15c5618" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/86/8609d2c381699deca8e6ba942e0ae1260c4eda77a473723be6c5267f1c3b2eb7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/86/862cb7f6869dc31b02022a082ccfca6eaab336f3bc8e4eba2b3e9f851217d031" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/87/879295b9d040acd480b8be9157318811f8349fd581c2e3c7f9c95c036b8c892f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/87/879b3852356f674ca52c0316a5d374533c2f49e89bfd5e625f8c9db1901d5352" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/87/87fcdd1e98de3c9589226e36e9755230619524550287e7fd7b0a4666a1f11b1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8a/8ab9259d5e7693a6155b8ec2e323f5615d92b20010ecf9f77efbb71956c0d4ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8a/8ac6d477b8de7056768f504b159da4942d515a31097b255683944a55e4bbb862" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8b/8b72e75fdb55c802cdc6ed8d7ed04de52659f6e00756af360334797511e3fbc8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8d/8d801b83531e61e6c031195fc47b9dd85d4c3bc763a5069e1136a74ab3c6c5ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/91/9127da3e598ba7408b076009b243abcde385ded2aa40e4610944d6608d7cab2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/91/9156df5a22bdf79f88bcd68b16883ab6343f05faedbde50c5a0a37d911eb6ec6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/92/92d95e25125bf5a0a2eaa7f04ed72f41d34936b10c11f278c5ea07a2ec6e3620" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/93/938a50e32438b54e21bc4ad9fc2684133f96ecf0174ddc61e8b7689dcb818121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/93/9394afb1760fe33880ed8db4103bf0e321ec22f5293c3ba8b79a2455c176866a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/93/93d9e1705c0c2f60c3032703610a69d2fc942ec10a151d39ac1b751bb1963abb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/94/94579d8a53a568857e2123a36befd0ae8d45e6dba7373cc33e90c5ae31ad1998" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/94/94fde6511039043c4e9d0bca34edefdfebf53e24d2e03b94d9ce33955f238014" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/95/9519150de44efc08137b498505834f6f9abd880b386ee53f5dffaf461e064c7b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/95/95cbb43941577f8ef95ed2d1feb24f71a364d04525b8259c70cbd2e7c33e7564" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/96/96e3503b80c837d7608cb92708e137eec8132239717a4e2e32ebc5525c01f152" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/97/97beabe0b550180821423b1713298a0ce02fb830976ff5ecae1d5e4df855fab5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9a/9ae21ba19121e22de20a762fe6ba6b14da8c31dde881b6b2d574b5250b17749e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9b/9bca3113a096917252ea52c52dca9893744f529e19aa60fc275f2a54ef3e11b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9c/9c54543076e491f75175b9487eb85b5adf3fd079e569b131f1efd63fe1e61b52" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9c/9caa0661408b08ffbf33f244673246ef52f5910af728c225eb27a3f33092a8ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9e/9ed9fbf551b6a8799694ca35c722b8286c17f8cc53b99d4c888af1c737b3d289" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9e/9edd1f41d9b7de49fd5eaa672bc3d58d9d1b23705a54c61cfb3fc3271b0a00a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a1/a1227e1169f8267ed1a2d05bc159981baf7b497458261b61fe8174d8f087ed85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a1/a136e3fb827247a5ac2a232c13ea84cb8a93d75fb6d9dddaa31d3edc19982db7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a1/a138be64ab7c23fa72ccbc21fdd7b40d232cc9b62d4b484ef9afabc36a0949d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a1/a1d9aa9344d6bf8569b46b8378069985d620f21a1439b119686a975a47a9a15b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a1/a1dde87a2e2a02ea0e3660555409a1738d8c5217079161faa524fba9806b223c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a2/a2d5ede1e50781fe76477d8e3379f6dac2b88e274ab5a065b10d9102abb75260" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a2/a2ee624aa884bc7ef3a24ad342211dc868ca5c4cc662eeffd7246864a2d63736" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a3/a323b2c35ec4f4a331d6f1ba439eae48a5e7acdf276b508dff53042fdeae715f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a4/a47b4ba2b9026abab1af5e7116713dac6f07608f7eb1a1f2ce5337af5b73c853" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a4/a4f963f2043c8b60f59cc47f54a075c03240758e1d9ad37ed2e36adc04f4d040" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a8/a869de3c4ceec70029c6e7a7920f2bf67153a6ab47ad2f8d667c4c67dee83724" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a9/a9f205c6d88631d2df0cdabd024a477036a3620c226e9e06d0c0f7dbb06ff2ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/aa/aaa04a02625f1075f7e7b87e54acd5263a28b7cbf6a1757e51973abfb7c49ff5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/aa/aade7673d934e5350d3df0e21c7270b8a19d2714c68c10949eea00f41c386f2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/af/af9af1ca72fb017bcfcec867eae381917019b17a3ddf0963a7615638852685df" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b1/b1a5bbe6a4154406f2673c0f9e546a5912e3a9bb3a2a73cd1953f6422b6443a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b2/b268cdff6959f8389b0edd31be0594123c2c649e064466e660d5bacd8c17ba01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b3/b3017a9efd452869c3457bf9ad84dce5b39450ae772e95414982b105a279f36f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b3/b35a7a08e071688b8ddf9dfedc8b2825c83b6be3e19738d275038034f79d0d20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b4/b462231581529d2df625e4124c9bf98223659252729083d31689683b2669609d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b5/b51447b65a6aeb2336ac58dce28983ebbfe1a8fc425d10e021e5f8ba991cdd7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b5/b562ce2fd5978c8ba4425c1f9664a645ad4bad51045b8bec255e40d7d4938a7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b8/b8213bb1e50a321f68c177a24fb6be11f3aaae272c480bd5cdfe22441886000a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b8/b84ef02f01ca99dbd0b1a046ec7be2a627bacd2d9f188f9437a8ca9fad90b256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b8/b85593d89ce0f5c18dfdcea48b29b14fb795084c1c52cbee76dabd805c1109a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b8/b8826afef6a8032b561f663714146db863099350a40bbf6d5ac88295333976f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b9/b935f22a00eb41537d0c283c7367fbc3f741c1cc77b4a3dbbdd70d2c1f89c69c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ba/ba294d6fff7824be82105248bd9fa93d7c5d7c9a1b5a3e0210fcd150e3a8e26d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ba/ba3523a06b5d0f112aa7943aac1193412504e1e6c606dd756b2604c2c164d6e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bb/bb24018b35a9d7163d12568440dffb0d5fed95ee818009c3cad58b35af0a3714" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bb/bbf4cbb26b996cc46b5e7a5b3647de77ee1f09287fde74d0344da924d52c45c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bc/bc72e263c963e5707ac05f1e7b919a34be227f0bc30b289c45024a2c7cbe6961" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bc/bc7b8ed91764732093644d07839c83aaf811256735d28c85a6a54fda2e149d65" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bd/bd15f6ad6ead56f02f35f73044f81f8fd08d8724e732acdd6a0f4c4e9dc3896a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bd/bd64afca13132f86609b6ab4c677e5726361be00941505db48b321bc14e81079" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bd/bd95bb1e57e1f544bce51e0c002953f7b83fb232eefb914437bc3bd0ba671668" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bf/bfec03cbf2e5722cb804e5d652e6cdb7f97f924f9f3fd58fdbe701e0e1621ebb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c0/c0346f2161982e93875a38d6298c275ba3e00268a7828e8ae3579d1f1a996bfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c0/c056424e1fa9e6800cfc0d835b0c8a97a16c9fc3eb03d2fd3640d9380a04b4bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c1/c1001943772e1c5aae8acde5c5ff34c9ddd75d9800278da8246137a3a1063973" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c1/c12a3ffe26ecd99b871f89f3bbf68b947066e88db2be33cb3c6a6c7df2360ac5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c1/c1391b7b524d251dfe1ba4e94e877a772e8d521d143e2a4468f4a5ff4eb6567e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c1/c182b68513cd79cd5c788b266bd753aeaeb87e5b7bff1654e129cb5f19d296cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c2/c2385eae024e361ddcd13fdec8c57cd91af69926ba53333da0bfbd1eb35b261a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c2/c25c08f4c0b08d2b03cfb421372d5831e68c4a0e5e368cccfacd80f6b48d0c85" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c2/c26bacd6f41a44889a7c9fb163f34bcdea6a0818243e246fbee8d1212efa8a68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c2/c2db2d9743b2a307f90c1b2652f56d45610bc79c359d9ec5197ca965e7584b11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c3/c3767787a3ce600a169fd9bf662bdb0eeca4250734487862e0b81a6812528b00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c3/c3b9b44c79c2e9b29febdd8e3f3f1a82168a47554d1fc80324644e2a02de2499" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c3/c3df1c8cfc0226853558114c55b065b59454eba8feaffb0d363817e66665065f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c4/c4739bacaff41960e2c618ad2ade4df3443468b75c399d7b57e4208ccfb46715" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c5/c507215e0ee4310a667c1bb0ce73ca4e239c8ac5645bc5544de6185d1955393b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c5/c5c7360d4387d88c29762c31727947bea72c61ddee70813cd1970029cd1f02b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c6/c6ff45bc08b049b11e88c897f30e09ea6818c7f2c07c7983d829dbb7f8915a5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c7/c7c4baa73535e5c70fceb79c2b047860a0495dc45c8083e23e702a3d1fccb7a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c8/c8078acd3b642121994981de48fac6ea1576919628dea5a0f74d5a847c60489a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c8/c81b3c7ea09f5d3cc64b41858453b006745df78e8d040df886611b427f6bc853" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c8/c88b471a4f9ff3b49b5eae05366853930855bdf3af678f3c68447c4b74f2fbd0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c9/c9add63bdd1b1d5924dcd38e679eb68876eacbb217598a54c2f4d0834434ccf2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c9/c9be86dfa37206fa1c727dc76c65999876c2817e4b9943257192ed944b15e48b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ca/ca31358e9e3134cf8e6642beb5bdc5ca2f7c7fe1091d268772e6f5b077c5c64b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cc/cc60c4de2e813cf10126e4c9f89b48780def552feeae22a68fceb949804e3f8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cd/cd27221aa7e88092adf60b44a6b5cb59673af85b0e787831ca92c3815bf8bd96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cd/cdccd6c47d7c4f261e8883542765ea0575111b68d0fb104bd5c97c8a7973d5a8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cf/cf8f605e42f90a16eb5da62e57b951e18c1fa5737aa6c188fc7ab0cac01d22a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d2/d27530e3413c710e00a9bc7feb959c66a247f678e675eb0c016b4b3d0be5dc8f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d3/d360734398b991ecc3d3ffaf7f4fe515aad67d649c105f1d11ad9452291f4c86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d5/d58805f2577707ab08e941fce481843b84aca5b1b063d09a4dd0b941e04d57f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d6/d6863eb82d03c78d9999e5025c75a0d64b4674fdcd796b7412f1909c423ea0d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d7/d709ad9c6467ed9e9b0f2da0301cd98c810bd164560666a1e665f3411ab7004c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d7/d771037f2d401b63008a0609bcd08a0a5d73641ff669aac462dea0e4e7ad331e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d8/d8506d28594fe81a22c354c12e6d4e60d7732ad9809bfb08249e04e8ce386693" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d9/d9d6cdbd720818f143f0d4fbe307f0a137fd38cfb83cdacbc5661c16cfb69d4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/da/da3a172619d48c6612391bdd3363c8fa61799e297f331fad3bd66ff88bb5dcf6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/db/db4c301c0c76983b2c1bf259a6f604a2fe4bb35805b0ebf097c50f31ce77d600" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/db/dbcbf3d97500381740b40b8f740bd3821b58453bc675ab4bb5df6dd2cfc1d380" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/dc/dc1d69a113a67c80ab3ac5fa9d6bb44d1d8b5b7df514f6ca5652feacd3a9bd05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/dc/dc441c2685f5489ec55ac9144ffb1d66de4ab031e02a9956bcf20da867109f8b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/de/de39c64fd5a4e8e334e03f2888d4d0427ad4903d78f8a42dca3b9e9c78c6930e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/de/de57859cefb0847543006791c05b18501d755a5c45c3f99a6ad5e2b6faa86c2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/df/df4626f08a5a97edcb7ac65c02ff951ab5844cedc9609d9a06e43c6e40ea2338" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/df/df560607dce29c3f3b51258fe29377989e12c031659c4c10ab4f3f7f95f90858" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/df/df860892ec2643886787fe97c9cc9942e6c80702c4a44946ebe7474b732aa63d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/df/dfa93da00dbba75914b28dcccbae75abaeaa513ab8ad42ef926d66194b2bba6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/df/dffaba94a7f1f63a6406a66826e6c0508450b923b613a4bca4ba72ec8311c3d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e1/e16cb91687c9ccc9b3b23f2baef822cfb34d59fd02fe543b5d749112252c5d30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e1/e16f27a9743de8a10039e0d68ddb1babda94bbf6f3780ec3043680f974b14358" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e2/e202723d16d5a1228e17f2145dc24c9ae9d0a607ee75991772df9a74a4d0032b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e2/e24d89e33497b8704ea838fb103a1a9b5eda787a70194c07ef6ff369f2ad74cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e2/e2cd688f4397670df8aff8aeba32ec80a7343ba47b48ee0f39f71c29078b0cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e3/e339e907aa16ff00f8645736e4dab0421d15c0cd9d1d55d631b6353e7d2e653c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e4/e4a8fd923e86130992eeced771c8f8e73ce9b229faa8ab83e327af1d012a9959" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e5/e51a805c23366e2fd0c12e5e9b40584c950b9953e7864ba333f1a54813344a0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e6/e60f88437c0f25a7bd24e678907837e26622090848948120f6b17b7173e46fd6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e6/e684cbc354b6a300a198645714bb55a595080c55913c33d7b5cc01d891f14f24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e7/e7e9c2cf926c478846cdaace41357d98f2ff77b3060c31429287e72a0fad5369" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e8/e83e345847afc3143eb23fd4bb5eb494451f7eaebadbc7c5a69efd0923db7071" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ea/ea0a2959dc7415a9fce6aa2fd5b23934d7f7e87e8ad9bf154f0aa44429b0caac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ea/ea38df404a1e0da1c321093158701a496c3ff4d6a2ea88b6281f949c86154ad0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/eb/eb44a845362d81b58e5bc981688a76de99498d10f42f74cf4e0a67ec46c8a494" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/eb/eb72989b3932f84ef680f117c0cb8aee52fda285d53824b5080f165426171c39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ed/ed521db5adc0faa37452a8c81dea7ba6ffa776face8a8e1b64bc4a1a4070d379" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f0/f0ec3dc783c8fa298eac08612aa9e2fa07c114dd26e6c1180d76df48af574b5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f2/f237e9de0c50594ba1d5e64918858a51b9b6c5a1fb473eb9f8ac673bcfcc6854" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f2/f24b27b8f269a4076d06ba06db73043520619d20d31dbf9ec7c0c982bc9a474e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f2/f26d8c1ec08f41589e1e558f5e67a86a9a98538324479ee65b6922158b570f2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f3/f324786bdff860c3a141a57e7e93434c213ff6cc2c2f113fcbe98a6033c6fd9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f3/f3479950d45d83aed1ee695330d9f30363f03770a46220e94c9a8cfcca037988" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f3/f3df1d718f93915719d18aebebfd3bde905fc72e5c2add346663643fdb25c81d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f3/f3e6c0a8120633981997a249919532ccf7dc5355e8c8a6f82621a06c2bd3b46d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f4/f41d2e39fc626b7e1f713a8a1463627003ab25c886771d9f30cc7636941ef609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f4/f4253d9bfad4d25872ac850518012796bd4bc87a9770422fde0efa30f67385dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f4/f426607ac0783d509d0ba104c25a029c8510a8753c0f05989598eb13b022bc19" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f4/f47da0b96ee447d8c9c808d6a66173f8dd8e3ba38cb945ce19a4fb641bb941b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f5/f5c4f32bddf3342065380ed6d6f364c857118d249e2e17251224dec51e05c0cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f6/f6647568e1ccaa065126e12072c36dc111c0aa7408ad1ab5165ddf55b08165ef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f6/f6c6b5be995d376cc21b81e79cf436ad83e2bceadb8fa32cc91d890a3d94e326" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f8/f8ff9eb33c9f94bd529f2d48c1f23a9ace536c270a53151ced7dd2b2fdc415ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f9/f9a3fa619e59e49aaab51fc4bdd3a2e9dad4343b3210ee8bb88e7ee0c9d2180b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fb/fb5b13ea11eef2816af43be9483f2edc629d8dd1bb1855189765305d4b9dd7ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fb/fbc9d40732f545cf7eaa990e679ba6249136e2402d57fba91b5e48994f61e765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fc/fc2708810259129bc66d9d16cdf917261ebcc6f49a8ed06b0214b0aab0d6b9ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fd/fd4f0fefe2633825099815268fc1aa7ac3524208cce49ed3080e8a184346cad7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fd/fd771ca6080bbcac93145248e682bf6bb5ffb4f1e32d30b13f90a2702e69a9fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fe/fe05fd10c416f66828e49a458bbba380bb1b1191a7a13885eef4a29204fa272e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/fe/fe68041542fc37cb9d4146718c8c1ace19ac3d70f86134d86820f11d68e42e2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ff/ff2245e387398659f5bf491ae2d11605419fabb1bfb2840bbd601e408a6b5007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ff/ff2f5d464e4a859c2a8ddfda29a6ef55320fedcfea63c6f943415525a355b2e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ff/ff532269a911adce9eb273acea7ce91d64785fa54e084b13eda2fa130cc4781d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ff/ffda4ac458764561b060af79451b23dea850509482693c368467ae1d74139b92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_175" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_176" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_177" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_178" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_179" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_180" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Print an image of the animal/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Print an image of the animal/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Print first lines of code/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Print first lines of code/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Set the program for zoo staff/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Set the program for zoo staff/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Show where animals live/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Show where animals live/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
@@ -113,7 +421,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -122,56 +429,51 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/CoffeeMachine.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/CoffeeType.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/ConsoleUI.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/test/CoffeeMachineTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/src/tictactoe/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/src/tictactoe/TicTacToe.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Simple Tic-Tac-Toe (Java)/task/test/TicTacToeTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="HsSqlInitializationState">
     <taskDatabasesInitialized>
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Add functions to your machine/db/db" />
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Brush up your code/db/db" />
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Calculate the ingredients/db/db" />
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Estimate the number of servings/db/db" />
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Keep track of the supplies/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Simple Tic-Tac-Toe (Java)/Fight/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Simple Tic-Tac-Toe (Java)/First move/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Simple Tic-Tac-Toe (Java)/The user is the gamemaster/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Simple Tic-Tac-Toe (Java)/What's up on the field/db/db" />
     </taskDatabasesInitialized>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="3CnNx1jl38VjSXlaECZCsbRd7hQ" />
+  <component name="ProjectId" id="3Co1Mf9RthLjArUube7P3yFIgxs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.CoffeeMachine.executor": "Debug",
     "Application.Main.executor": "Run",
-    "Gradle.Tests in 'hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.test'.executor": "Run",
+    "Gradle.Tests in 'hyperskill-projects.Simple_Tic-Tac-Toe__Java_-task.test'.executor": "Run",
     "Hyperskill.LearningObjectsStorageType": "SQLite",
     "Hyperskill.Yaml.Migrate": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "debugger.dataViews",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="55664a10-d4b1-47fa-a84f-cda2de48187c" name="Changes" comment="" />
+      <changelist id="b2d4d50d-6e95-4904-a910-04392ac25f22" name="Changes" comment="" />
       <created>1776782327570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776782327570</updated>
-      <workItem from="1777017617811" duration="13833000" />
+      <workItem from="1777037062704" duration="10093000" />
     </task>
     <servers />
   </component>
