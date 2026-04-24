@@ -4,77 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74911502-cca8-4087-96bb-769706f27b3b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2e/2e913c21c8b33bfac6b203229fc5383cf841d75bfa1988c689788850f5eca0e6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/54/54a23cebb49b8531bbb30842ebc7afc78c3db76345e1463c4ed39900432b7402" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/654d1b6bb6c4a92806925b42e159954ab4a769e2c3a79d1a71adc190e3d84e2c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/65d8c0238112670eb8d961773d1dd151d76e144c6eaa7e9eeeae0926f63f0697" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73e47976ad4d311f5a01595616dcbf6550d88545cabd466de723e2ec44442ef6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/98/981e4a7ea2ff909c3fc1ac85d65d0780942f7d0193b09ad80e0ed02ad6a6da67" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9e/9e96015c2dfdcb994c3e70cd655b4044fb50b490587a87b9ddd36d8ee7244b70" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b3/b3991ea3091c8e480013417c4ad7ca20f83f828d37f5bb9431a8432324347ab4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bd/bd03ab16ac3397d989505ff918418ea3e239323341edb45bca201b2d98d7dfc9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d6/d6bce3bc867aa9724e6abf81b9be308ce544f473fe7c447a294d88e7bd61df6d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/eb/eb6f30ac91c7e420f96b65da8a7bb0733a34725cb29cdd88b0dca1f58bd7c3ff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1147" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1148" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/classes/java/hyperskill-projects.My_First_Project_with_Java-task-build-classes-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/classes/java/hyperskill-projects.My_First_Project_with_Java-task-build-classes-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/classes/java/hyperskill-projects.My_First_Project_with_Java-task-build-classes-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.My_First_Project_with_Java-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.My_First_Project_with_Java-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.My_First_Project_with_Java-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/generated/sources/headers/java/hyperskill-projects.My_First_Project_with_Java-task-build-generated-sources-headers-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/generated/sources/headers/java/hyperskill-projects.My_First_Project_with_Java-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/generated/sources/headers/java/hyperskill-projects.My_First_Project_with_Java-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/reports/tests/hyperskill-projects.My_First_Project_with_Java-task-build-reports-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/reports/tests/hyperskill-projects.My_First_Project_with_Java-task-build-reports-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/reports/tests/hyperskill-projects.My_First_Project_with_Java-task-build-reports-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/test-results/hyperskill-projects.My_First_Project_with_Java-task-build-test-results.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/test-results/hyperskill-projects.My_First_Project_with_Java-task-build-test-results.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/test-results/hyperskill-projects.My_First_Project_with_Java-task-build-test-results.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/tmp/hyperskill-projects.My_First_Project_with_Java-task-build-tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/tmp/hyperskill-projects.My_First_Project_with_Java-task-build-tmp.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/build/tmp/hyperskill-projects.My_First_Project_with_Java-task-build-tmp.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/hyperskill-projects.My_First_Project_with_Java-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/hyperskill-projects.My_First_Project_with_Java-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/My First Project with Java/task/hyperskill-projects.My_First_Project_with_Java-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/classes/java/hyperskill-projects.Zookeeper_with_Java-task-build-classes-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/classes/java/hyperskill-projects.Zookeeper_with_Java-task-build-classes-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/classes/java/hyperskill-projects.Zookeeper_with_Java-task-build-classes-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Zookeeper_with_Java-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Zookeeper_with_Java-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Zookeeper_with_Java-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/generated/sources/headers/java/hyperskill-projects.Zookeeper_with_Java-task-build-generated-sources-headers-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/generated/sources/headers/java/hyperskill-projects.Zookeeper_with_Java-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/generated/sources/headers/java/hyperskill-projects.Zookeeper_with_Java-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/reports/tests/hyperskill-projects.Zookeeper_with_Java-task-build-reports-tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/reports/tests/hyperskill-projects.Zookeeper_with_Java-task-build-reports-tests.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/reports/tests/hyperskill-projects.Zookeeper_with_Java-task-build-reports-tests.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/test-results/hyperskill-projects.Zookeeper_with_Java-task-build-test-results.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/test-results/hyperskill-projects.Zookeeper_with_Java-task-build-test-results.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/test-results/hyperskill-projects.Zookeeper_with_Java-task-build-test-results.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/tmp/hyperskill-projects.Zookeeper_with_Java-task-build-tmp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/tmp/hyperskill-projects.Zookeeper_with_Java-task-build-tmp.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/build/tmp/hyperskill-projects.Zookeeper_with_Java-task-build-tmp.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/hyperskill-projects.Zookeeper_with_Java-task.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/hyperskill-projects.Zookeeper_with_Java-task.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper with Java/task/hyperskill-projects.Zookeeper_with_Java-task.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Calculate net income/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Calculate net income/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Calculate net income/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Measuring total income/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Measuring total income/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Measuring total income/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Print the prices/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Print the prices/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/Print the prices/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/task/src/calculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My First Project with Java/task/test/MyFirstProjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Chat Bot with Java/Simple Chat Bot with Java.iml" afterDir="false" />
+    <list default="true" id="55664a10-d4b1-47fa-a84f-cda2de48187c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/classes/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/classes/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/classes/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/annotationProcessor/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/generated/sources/headers/java/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/reports/tests/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/reports/tests/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/reports/tests/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/test-results/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/test-results/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/test-results/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/tmp/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/tmp/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/build/tmp/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Coffee Machine Simulator with Java/task/hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/CoffeeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/ConsoleUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" afterDir="false" />
@@ -87,72 +41,64 @@
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/HEAD" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/HEAD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/10/101fe2e750e9c4f86731386188f1b6b7cc36b25aca599da5112569a9c4f51d2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/12/126a1db4d49b77382c8fbc57d76156a09ea17cb49da79da354a8b4df7f8bdb26" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/12/12f2744cdcda017fea72cb0c13b2e3a1d93ec779e96795adeb467ccf99f2cb18" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/13/13c4019f54d052e9fa8546e873a4339ae263004f6bc1abfafd436e33817f856f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/1b/1b8d8840b0f8d2e9546117340d906ef0c0feb0d5cb78c1e530a471d9ac948ac2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/29/29c4651cb938bd67529e3f1cd65b2b05bc48976a4e711b39788024a1c0e5fd84" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/32/3289bc11ff5cc92fe7425dea1ad06a3a8ab50bcb27b48c582b0a1ebb2b61efb3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/35/3557c8442f92dc6056ae65c59e670c7b6f739dbe7f418e33e133ff999aafbdf1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/36/361ade6b8ff15554a3a2f37c800ab8fc9366667e0f855ec849710e87bc276628" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/36/36cf76f60cd33427bb9bebbf2d8496ebeb3f5976a87cb4a9124a01450d4480af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/38/38f6d9b3d9cd650a70a376f31c015e1ab5e6de84b87be1daa95bf0f49769022c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/3b/3bc54043a6b5370d8b7e4a2be5b0f2e247e1e127c32e85e158a2991a040a1dab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/47/47948deb6bc37741721a8208ea764e2360dd1dbd47f19166eb1803e5545f708f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4c/4ccd444ce56d4f120aab2289887e5d6b8214591b733fc838c1820536c3cf5c0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4d/4d594629d0076c98832064797a81238e5713857e3714e3ac633478af10fa70e5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4d/4dd11791ca8d3abba1613f8b747da365dcfed6fbf903067bbcc15eb91b110901" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4e/4ebf2f95141a5891d4f451e0c014579ddd80d59747d512012fee52e8325adb83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4f/4f18494603a5a7759bd13339211ceecaf7c6cb709c08178b039e9bcc02d537e3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4f/4f27da76ab14059c403d878d5a35927ebbb2e607169f08738656052d226c974c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/60/60748a3a4321a060ee1767a3a893a6b13c3517d5f95c723f37f63dacdbfb8fb5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/64/6417ff3ec2bc85bf81fbb95f6123dfd99e422075f646f8a8f4f63886fc5b00bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/6573978b7aa73744e2c98cd6b4d7132ebc9efd98eac3d869c9cc82e5a276216d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/72/7295f5de7a13e4d77b3ac31566874d278480373493cd7aeb9440565efb826fad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73772dd6646f8e76f84373037701836dc771cb0c3414d30ed622b028370dbd27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73979939435a5b0b7cbffe836ac367a606e318c793302e7b85c2b27a9b4fe59b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7c/7c037a6efd344649217df161bd031db4e8aa99f0b256175c0dff8d222721473c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/81/8156cec4887c36b8877e697d1cb2d28059a1d22eff08343329a3627a1ca01396" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/85/85d4e04eac98df3165765b52b356a650d9eee24442837e1bbb5f9128c3f267aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8b/8b17077e3753eb76697e2b3f5370d346489392c328fc27a7eae31ae1f3f81818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8b/8ba07c8d5bb0ad1ebd167c8265e1c07e4e0c30cbe0469b212d464f190f94eb00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8b/8bf6d61396465c355b539471c9578be680b802f101a4599edeae3701b3c4423c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/8d/8d58088769f357d45f038d6a166b8c0ed7a2daa6c2d6a45f57f35578ba9f0311" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/96/96ab74ec90ebb55f7b14ef837921ca6275f4539e83397d3cdeaa973f97cfe20a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9a/9a5db2c8a66ac9f2da980045abd50bc9341981ea10231395f304efdab467240d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/a5/a566947ba2580a67e68c2c15751a3732fac249c1a19f50f499c1cb1450a93801" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ab/ab774d41ca286bf6247fe9fe93419b47bead04b3fc46ad3aab6d4381c719570d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ab/abb12a3cb7c215c951fee0306a1911bb4029b4964f0045d2b8914119086e5211" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bb/bbd3b3ef9e23fae7b8f6b53498cd60e4b2df839b887f4c476604a4db1ad1e47c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c0/c0f74c22f60f8785f46281389d78b6e5ae4e55b6cb73aeae6c7deb9e28e20093" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ca/cae9ece3cbaa5c5f317b93e44a44f2ec701c4eea0e94e27db12930375eb49b3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cd/cd4e50562071419f2046786642a0e1b216a57349292faefd61bd9f9dd29def32" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ce/cee9f3bc331b9906368eb99ba9a3b8e9709663addc3db4317c40e0b727d27568" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d3/d360dc1ee36475c45d65794dfdb02834d88c9afd4f0b199a8cb7c66adfd3a29c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d8/d8a95cfda10974f0a39b9c7574de48dc0659ca9fd7ea0d3b6ff867d5986b881a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d9/d98fa636698b2b4f703868efabb660cba5ab31212a5cba7e106d960b20ca53a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e6/e66122878211330d3b5739b4a3dc3eb1e55c601f103787d36efe83b6ed53b733" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ea/ea6fc10a62087d40a5abab4e17832837d029acbe12337c81d9d3ac6593974957" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ea/ea8d039739fa70ca485462cb0e8d15a73228305247f47cc5182475a51f684bbb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f1/f19f23080aaf59c350288e01ca84eeb21928c9d9702d1109d81e986d03976fa6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f1/f1b667e5bde45ab97d4280af804ce20fd79a578ace85699e61f1b3285dceea0e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f2/f297ecfaa1e52be9f5254d7b2e146be1718cdc7185ff7ce6d9f35b6ac5f00e70" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f4/f4971645979c3bafb07ca7042259887cb507038c5dba1b4cf10b2195c1e2b381" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ff/ff00af6ff3b7f6ef11a1e5490d3349a6295a3a2a2e583bb4ade0f61b9d394902" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_614" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_615" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_616" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_617" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_618" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/01/0169d584833ed6a7a2526acfacd916ba4b6c6895d579e5c1270a00dd80d2cc5f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/0e/0e65ee911bb3fe2d3ecf0e774d90017593ce8454ed7213bbe135e98ba6fac57d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/27/271b7edbab8273ad96d2c1e5cda284adf29ad306344fe8b0055a4fdd16f4dbe8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2a/2aef0bd8234e9b85097dece3e2ec8662971b633ef3257668b8f2005fb51cbd3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/2e/2e913c21c8b33bfac6b203229fc5383cf841d75bfa1988c689788850f5eca0e6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/4a/4a7c719ed2004d4f12565b642f5420df9c4e51dedfde0911552c1ae48ce82b1c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/53/53005f6c074e09c0101daf1b87a3668017fe3af4580059e599271b140276546c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/54/54a23cebb49b8531bbb30842ebc7afc78c3db76345e1463c4ed39900432b7402" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/56/569914df7e3949ea8b1b8802efed8c82a3859dda2208a1694ea78bc17fdecef1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/56/56edad6f0ef8ece82e35e4aad66c3459f62bcda04462666cbad1073d34bb82b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/654d1b6bb6c4a92806925b42e159954ab4a769e2c3a79d1a71adc190e3d84e2c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/65/65d8c0238112670eb8d961773d1dd151d76e144c6eaa7e9eeeae0926f63f0697" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/73/73e47976ad4d311f5a01595616dcbf6550d88545cabd466de723e2ec44442ef6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/7e/7e8ccdafeed5c80f74f547ebb75ed232fbc56f6ad3b0a69a13016bb5d78c83db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/89/892c6676a9a8fe77b265a4275da8fbafb9ffd5830feedd0e7aeefcfe3da9dda8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/90/90ab386080b19861a4c7aaa1d551a11577976d5d9f0c2934a2e23fd84eea98e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/93/934859b24b9b1a23d4ad5503bcde1213e47965d36e4a286a7f34edf2c7d470fa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/95/954878f30edb3769e8ceeeaf2acdb86e935a2eb29f383dff3cc8b5a1e040cd09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/95/958e918d9b87f833dc63468a696f303059ad4da78c2ede4c4d4b4b44a7a09da4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/98/98094facaec6ba5d9acd49e950bd4eb0ba13e7ececfef805b5d121ff2d8b5a8b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/98/981e4a7ea2ff909c3fc1ac85d65d0780942f7d0193b09ad80e0ed02ad6a6da67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9d/9d2365781796f4c91dd230e409199daddd91345a3190e72ec5ad3a38aad3a926" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/9e/9e96015c2dfdcb994c3e70cd655b4044fb50b490587a87b9ddd36d8ee7244b70" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b3/b3991ea3091c8e480013417c4ad7ca20f83f828d37f5bb9431a8432324347ab4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b4/b4df83f1bc019212fb0de73658cea58f83726c3aca5f811f5fffa0ce13d00e3b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b4/b4edaea5e16bdb894d89273e5243c7e4fda99167651ad7d24921186fd7bac252" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b5/b5406e645a990f95b45b18e45d1161f2acc5e89f475bb2ab7ad8006b6e1f0a09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/b8/b829e60bca131590e63b69318ea2bc0493c606995465617a35295419d2a20ee5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ba/ba2db3a8c9255e7336d2123cd81442dd67985d78366aef9bfd2a03cc933febc8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/bd/bd03ab16ac3397d989505ff918418ea3e239323341edb45bca201b2d98d7dfc9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c6/c679b3594a5a33dfe6b7257a57ce669c54fdd988ad25d396d53918d7801f6064" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/c7/c7933c6e93e2d6ce2b5ca5398c46fbf8a4defa4ba709bcb58fd0e0d09852edfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/cd/cdad613e79cb1d586aca51dc7665199b3476642f6232a22dba5ca55b3191869f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d3/d3b73e63fcefd06f5aa6f70c757773b91c5722cafd2f15a06be6e9b26de76ac0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/d6/d6bce3bc867aa9724e6abf81b9be308ce544f473fe7c447a294d88e7bd61df6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e1/e1f04596e56f8bcfa6cd042a382c2207bc4b5d9b8721e63716abc75683385bf2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/e4/e4fc6971de3f150660f8d47bb591a312b5e4d40ca9cf5185f2407916e411da13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/eb/eb6f30ac91c7e420f96b65da8a7bb0733a34725cb29cdd88b0dca1f58bd7c3ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/ed/edbc2505d7bfb4daed4b58bbebe76cbbfdd196b7ac828d090bab101c65c40d5d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/objects/f3/f31e6717f6b2c05f8d96d449c2248545b44dcbe851595099e0384eefc30caf71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1147" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1148" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1149" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_1150" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Print an image of the animal/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Print an image of the animal/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Print first lines of code/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Print first lines of code/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Set the program for zoo staff/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Set the program for zoo staff/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zookeeper with Java/Show where animals live/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Zookeeper with Java/Show where animals live/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,53 +110,68 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Zookeeper with Java/task/src/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Zookeeper with Java/task/test/ZookeeperTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/CoffeeMachine.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/CoffeeType.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/ConsoleUI.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/src/machine/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Coffee Machine Simulator with Java/task/test/CoffeeMachineTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="HsSqlInitializationState">
     <taskDatabasesInitialized>
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Zookeeper with Java/Print an image of the animal/db/db" />
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Zookeeper with Java/Set the program for zoo staff/db/db" />
-      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Zookeeper with Java/Show where animals live/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Add functions to your machine/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Brush up your code/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Calculate the ingredients/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Estimate the number of servings/db/db" />
+      <option value="jdbc:h2:file:/home/cristian/java-learning/hyperskill/hyperskill-projects/Coffee Machine Simulator with Java/Keep track of the supplies/db/db" />
     </taskDatabasesInitialized>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="3Cl9CPO8TVVJn0qrhcXmchIXmVc" />
+  <component name="ProjectId" id="3CnNx1jl38VjSXlaECZCsbRd7hQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CoffeeMachine.executor": "Debug",
     "Application.Main.executor": "Run",
-    "Gradle.Tests in 'hyperskill-projects.Zookeeper_with_Java-task.test'.executor": "Run",
+    "Gradle.Tests in 'hyperskill-projects.Coffee_Machine_Simulator_with_Java-task.test'.executor": "Run",
     "Hyperskill.LearningObjectsStorageType": "SQLite",
     "Hyperskill.Yaml.Migrate": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "debugger.dataViews",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="74911502-cca8-4087-96bb-769706f27b3b" name="Changes" comment="" />
+      <changelist id="55664a10-d4b1-47fa-a84f-cda2de48187c" name="Changes" comment="" />
       <created>1776782327570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776782327570</updated>
-      <workItem from="1776949163049" duration="762000" />
+      <workItem from="1777017617811" duration="13833000" />
     </task>
     <servers />
   </component>
