@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: test/LastPencilTest.java
+    learner_created: false
+  - name: src/lastpencil/ConsoleUI.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/Main.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/LastPencil.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/InvalidPencilsException.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/IllegalPlayerNameException.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/PencilsNotPositive.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/PencilsNumberOutOfBounds.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/InputNotNumericException.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/341/stages/2009/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sat, 25 Apr 2026 19:32:01 UTC"
+record: -1

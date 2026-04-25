@@ -1,16 +1,15 @@
 type: hyperskill
-title: Simple Tic-Tac-Toe (Java)
+title: Last Pencil (Java)
 language: English
-summary: "<p>Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe,\
-  \ also known as Noughts and crosses or Xs and Os. A single mistake usually costs\
-  \ you the game, but thankfully it is simple enough that most players discover the\
-  \ best strategy quickly. Let’s program Tic-Tac-Toe and get playing!</p><br/><br/>Learn\
-  \ more at <a href=\"https://hyperskill.org/projects/48?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
-  >https://hyperskill.org/projects/48</a>"
+summary: "<p>Playing with friends is pure fun but getting ahead of them is even more\
+  \ enjoyable. Invite a friend to play the Last Pencil, a game where you decide who\
+  \ wins.\_In this project, your opponent is a computer that is an expert in the game.\
+  \ But it's up to you to choose who wins.</p><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/341?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/341</a>"
 programming_language: Java
 programming_language_version: 11
 content:
-  - Simple Tic-Tac-Toe (Java)
+  - Last Pencil (Java)
 additional_files:
   - name: build.gradle
     visible: true

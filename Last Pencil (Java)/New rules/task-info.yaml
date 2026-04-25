@@ -1,0 +1,19 @@
+type: edu
+files:
+  - name: src/lastpencil/Main.java
+    visible: true
+    learner_created: false
+  - name: test/LastPencilTest.java
+    learner_created: false
+  - name: src/lastpencil/ConsoleUI.java
+    visible: true
+    learner_created: true
+  - name: src/lastpencil/LastPencil.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/341/stages/2006/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 25 Apr 2026 11:47:01 UTC"
+record: -1
