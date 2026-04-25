@@ -1,24 +1,24 @@
 hyperskill_project:
-  id: 341
-  ide_files: https://hyperskill.org/api/projects/341/additional-files/additional_files.json
+  id: 133
+  ide_files: https://hyperskill.org/api/projects/133/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Sat, 25 Apr 2026 16:42:31 UTC"
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
 stages:
-  - id: 2005
-    step: 27998
+  - id: 709
+    step: 11105
     is_completed: true
-  - id: 2006
-    step: 27999
+  - id: 710
+    step: 11106
     is_completed: true
-  - id: 2007
-    step: 28000
+  - id: 711
+    step: 11107
     is_completed: true
-  - id: 2008
-    step: 28001
+  - id: 712
+    step: 11108
     is_completed: true
-  - id: 2009
-    step: 28002
+  - id: 713
+    step: 11109
     is_completed: true
 topics:
   0:
@@ -45,8 +45,6 @@ topics:
       theory_id: 3519
     - title: Integer types and operations
       theory_id: 3565
-    - title: Increment and decrement
-      theory_id: 5008
     - title: Floating-point types and operations
       theory_id: 3517
     - title: Boolean type and operations. True and false
@@ -55,19 +53,13 @@ topics:
       theory_id: 3512
     - title: Conditional statement
       theory_id: 3503
-    - title: Primitive data types and their sizes
-      theory_id: 3532
-    - title: Type casting
-      theory_id: 3510
-    - title: Characters
-      theory_id: 3514
-    - title: String
-      theory_id: 3523
   2:
     - title: "Write, compile, and run"
       theory_id: 3739
     - title: IDE
       theory_id: 10996
+    - title: Increment and decrement
+      theory_id: 5008
     - title: One-line condition with ternary operator
       theory_id: 3506
     - title: For loop
@@ -84,6 +76,10 @@ topics:
       theory_id: 3504
     - title: Functional decomposition
       theory_id: 10570
+    - title: Primitive data types and their sizes
+      theory_id: 3532
+    - title: Type casting
+      theory_id: 3510
     - title: Calling methods
       theory_id: 10973
     - title: Primitive and reference types
@@ -92,14 +88,20 @@ topics:
       theory_id: 3511
     - title: Arrays as parameters
       theory_id: 3594
+    - title: Iterating over arrays
+      theory_id: 3602
+    - title: Characters
+      theory_id: 3514
+    - title: String
+      theory_id: 3523
     - title: Constants. Final variables
       theory_id: 7427
     - title: What is object-oriented programming
       theory_id: 3614
     - title: What are bugs
       theory_id: 5504
-    - title: Processing strings
-      theory_id: 3551
+    - title: Multidimensional array
+      theory_id: 1933
     - title: IntelliJ IDEA
       theory_id: 37202
     - title: Debugging overview
@@ -120,11 +122,14 @@ topics:
       theory_id: 4727
     - title: Static members
       theory_id: 3534
-  3:
+  4:
     - title: Errors in programs
       theory_id: 3536
-  4:
+    - title: First glance at exceptions
+      theory_id: 3497
+    - title: NullPointerException
+      theory_id: 1945
     - title: Formatted output
       theory_id: 7046
-    - title: Random class
-      theory_id: 4910
+    - title: Array exceptions
+      theory_id: 1940
