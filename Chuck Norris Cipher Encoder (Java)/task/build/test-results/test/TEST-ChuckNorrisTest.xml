@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ChuckNorrisTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-28T19:59:01.474Z" hostname="cristian-TUF-F15" time="0.213">
+<testsuite name="ChuckNorrisTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-28T21:58:07.626Z" hostname="cristian-TUF-F15" time="0.524">
   <properties/>
-  <testcase name="start" classname="ChuckNorrisTest" time="0.213"/>
+  <testcase name="start" classname="ChuckNorrisTest" time="0.524"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Please input operation (encode/decode/exit):
@@ -25,25 +25,25 @@ Please input operation (encode/decode/exit):
 > decode
 Input encoded string:
 > hello world!
-Encoded string is not valid!
+Code not valid: it must contain only 0-s and spaces.
 
 Please input operation (encode/decode/exit):
 > decode
 Input encoded string:
 > 0 0 00 00 0 0 00 0000 0 0 00 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
-Encoded string is not valid!
+Code not valid: number of blocks must be even.
 
 Please input operation (encode/decode/exit):
 > decode
 Input encoded string:
 > 0 0 00 00 0 0 00 000 0 0 00 0000 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
-Encoded string is not valid!
+Code not valid: binary length not a multiple of 7.
 
 Please input operation (encode/decode/exit):
 > decode
 Input encoded string:
 > 0 0 00 00 0 0 000 000
-Encoded string is not valid!
+Code not valid: first block of each sequence must be '0' or '00'.
 
 Please input operation (encode/decode/exit):
 > exit

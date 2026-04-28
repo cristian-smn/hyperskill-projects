@@ -51,11 +51,11 @@ public class Main {
         String inputStr = scanner.nextLine();
 
         String unaryStr = unaryToBinaryDecoder(inputStr);
-        if (unaryStr != null) {
+        if (unaryStr.contains("not valid")) {
+            System.out.println(unaryStr);
+        } else {
             System.out.println("Decoded string:");
             System.out.println(toChar(unaryStr));
-        } else {
-            System.out.println("Encoded string is not valid!");
         }
         System.out.println();
     }
@@ -104,13 +104,13 @@ public class Main {
 
     private static String unaryToBinaryDecoder(String unaryStr) {
         if (!unaryStr.matches("[0 ]+")) {
-            return null;
+            return "Code not valid: it must contain only 0-s and spaces.";
         }
 
         String[] parts = unaryStr.split(" ");
 
         if (parts.length % 2 == 1) {
-            return null;
+            return "Code not valid: number of blocks must be even.";
         }
 
         StringBuilder sb = new StringBuilder();
@@ -120,11 +120,11 @@ public class Main {
             String block = parts[i + 1];
 
             if (!(prefix.equals("0") || prefix.equals("00"))) {
-                return null;
+                return "Code not valid: first block of each sequence must be '0' or '00'.";
             }
 
             if (!containsOnlyZeros(block)) {
-                return null;
+                return "Code not valid: too many spaces.";
             }
 
             int bit = (prefix.equals("0")) ? 1 : 0;
@@ -132,7 +132,7 @@ public class Main {
         }
 
         if (sb.length() % 7 != 0) {
-            return null;
+            return "Code not valid: binary length not a multiple of 7.";
         }
         return sb.toString();
     }

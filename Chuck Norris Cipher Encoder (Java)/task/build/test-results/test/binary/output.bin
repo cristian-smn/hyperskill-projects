@@ -21,25 +21,25 @@
 	> decode
 Input encoded string:
 > hello world!
-Encoded string is not valid!
+5Code not valid: it must contain only 0-s and spaces.
 
 -Please input operation (encode/decode/exit):
 	> decode
 Input encoded string:
 L> 0 0 00 00 0 0 00 0000 0 0 00 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
-Encoded string is not valid!
+/Code not valid: number of blocks must be even.
 
 -Please input operation (encode/decode/exit):
 	> decode
 Input encoded string:
 P> 0 0 00 00 0 0 00 000 0 0 00 0000 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
-Encoded string is not valid!
+3Code not valid: binary length not a multiple of 7.
 
 -Please input operation (encode/decode/exit):
 	> decode
 Input encoded string:
 > 0 0 00 00 0 0 000 000
-Encoded string is not valid!
+BCode not valid: first block of each sequence must be '0' or '00'.
 
 -Please input operation (encode/decode/exit):
 > exit

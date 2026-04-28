@@ -4,11 +4,12 @@ files:
     visible: true
     learner_created: false
   - name: test/ChuckNorrisTest.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/293/stages/1540/implement#comment
 status: Solved
 feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
     to continue learning.
-  time: "Tue, 28 Apr 2026 19:59:01 UTC"
+  time: "Tue, 28 Apr 2026 21:58:08 UTC"
 record: -1
