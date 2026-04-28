@@ -1,19 +1,30 @@
 package cinema;
 
+import cinema.domain.Cinema;
+import cinema.model.CinemaConfig;
+import cinema.ui.AdminConsoleUI;
+import cinema.ui.UserConsoleUI;
+import cinema.utils.InputUtils;
+
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        try (Scanner scanner = new Scanner(System.in)) {
+            InputUtils inputUtils = new InputUtils(scanner);
 
-        //Main are putin I/O dar un CinemaInitializer care sa creeze obiectul Cinema era prea mult
-        // si nu neaparat cea mai buna decizie
-        int rows = InputUtils.readInt(scanner, "Enter the number of rows:");
-        int seats = InputUtils.readInt(scanner, "Enter the number of seats in each row:");
-        Cinema cinema = new Cinema(rows, seats);
-        ConsoleUI consoleUI = new ConsoleUI(cinema, scanner);
-        consoleUI.run();
+            /*
+             * In acest caz InputUtils este doar un Scanner wrapper, dar daca decid sa schimb
+             * logica de citire, o pot face intr un singur loc, sau daca este nevoie de suport
+             * multithreadding centralizat, in acest context insa, este complet schimbabil cu
+             * trimiterea unui Scanner
+             * */
 
-        scanner.close();
+            CinemaConfig config = AdminConsoleUI.setup(inputUtils);
+            Cinema cinema = new Cinema(config);
+
+            UserConsoleUI userConsoleUI = new UserConsoleUI(cinema, inputUtils);
+            userConsoleUI.run();
+        }
     }
 }
