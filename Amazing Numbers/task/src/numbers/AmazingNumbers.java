@@ -5,8 +5,7 @@ import java.util.*;
 public class AmazingNumbers {
     public record NumberResult(long number, Set<Property> trueProperties){}
 
-    public NumberResult processRequest(SingleRequest userRequest) {
-        long number = userRequest.start();
+    private NumberResult analyzeNumber(long number) {
         Set<Property> trueProperties = new LinkedHashSet<>();
         for (Property p : Property.values()) {
             if (p.test(number)) {
@@ -16,14 +15,17 @@ public class AmazingNumbers {
         return new NumberResult(number, trueProperties);
     }
 
+    public NumberResult processRequest(SingleRequest userRequest) {
+        return analyzeNumber(userRequest.start());
+    }
+
     public List<NumberResult> processRequest(ListRequest userRequest) {
         long start = userRequest.start();
         int count = userRequest.count();
         List<NumberResult> numbersResult = new ArrayList<>();
 
         for (long i = start; i < start + count; i++) {
-            NumberResult nr = processRequest(new SingleRequest(i));
-            numbersResult.add(nr);
+            numbersResult.add(analyzeNumber(i));
         }
 
         return numbersResult;
@@ -34,18 +36,30 @@ public class AmazingNumbers {
         int count = userRequest.count();
         List<NumberResult> numbersResult = new ArrayList<>();
 
-        int index = 0;
-        long i = start;
-        while (index < count) {
-            NumberResult nr = processRequest(new SingleRequest(i));
-            if (nr.trueProperties().containsAll(userRequest.included()) &&
-                    Collections.disjoint(nr.trueProperties(), userRequest.excluded())) {
-                numbersResult.add(nr);
-                index++;
+        long index = start;
+        while (numbersResult.size() < count) {
+            if (matches(start, userRequest.included(), userRequest.excluded())) {
+                numbersResult.add(analyzeNumber(index));
             }
-            i++;
+            index++;
         }
 
         return numbersResult;
+    }
+
+    private boolean matches(long number, Set<Property> included, Set<Property> excluded) {
+        for (Property p : included) {
+            if (!p.test(number)) {
+                return false;
+            }
+        }
+
+        for (Property p : excluded) {
+            if (p.test(number)) {
+                return false;
+            }
+        }
+
+        return true;
     }
 }
