@@ -3,21 +3,24 @@ package numbers;
 import java.util.*;
 
 public class RequestValidator {
-    final private static List<Set<Property>> MUTUAL_EXCLUSIVE = List.of(
+
+    private record PropertyFilters(Set<Property> included, Set<Property> excluded){}
+
+    private static final List<Set<Property>> MUTUAL_EXCLUSIVE = List.of(
             Set.of(Property.EVEN, Property.ODD),
             Set.of(Property.DUCK, Property.SPY),
             Set.of(Property.SUNNY, Property.SQUARE),
             Set.of(Property.HAPPY, Property.SAD)
     );
 
-    final private static List<Set<Property>> MUTUAL_EXCLUSIVE_EXCLUDED = List.of(
+    private static final List<Set<Property>> MUTUAL_EXCLUSIVE_EXCLUDED = List.of(
             Set.of(Property.EVEN, Property.ODD),
             Set.of(Property.HAPPY, Property.SAD)
     );
 
 
     public UserRequest validate(String request) {
-        String[] tokens = request.split("\\s+");
+        String[] tokens = request.trim().split("\\s+");
 
         switch (tokens.length) {
             case 1 -> { return validateOneParameter(tokens[0]); }
@@ -60,27 +63,21 @@ public class RequestValidator {
         Set<Property> included = new HashSet<>();
         Set<Property> excluded = new HashSet<>();
 
-        boolean isException = false;
-        Set<String> wrongCommands = new HashSet<>();
+        Set<String> wrongCommands = new LinkedHashSet<>();
         for (int i = 2; i < tokens.length; i++) {
             boolean isExcluded = tokens[i].startsWith("-");
-            String propertyStr = tokens[i];
-            Set<Property> usedList = included;
+            String propertyStr = (isExcluded) ? tokens[i].substring(1) : tokens[i];
+            Set<Property> targetSet = (isExcluded) ? excluded : included;
 
-            if (isExcluded) {
-                usedList = excluded;
-                propertyStr = tokens[i].substring(1);
-            }
             try {
                 Property property = Property.valueOf(propertyStr.toUpperCase());
-                usedList.add(property);
+                targetSet.add(property);
             } catch (IllegalArgumentException iae) {
-                isException = true;
                 wrongCommands.add(propertyStr.toUpperCase());
             }
         }
 
-        if (isException) {
+        if (!wrongCommands.isEmpty()) {
             String noun = (wrongCommands.size() == 1) ? "property " : "properties ";
             String verb = (wrongCommands.size() == 1) ? " is" : " are";
             String message = "The " + noun + wrongCommands + verb +  " wrong.\n";

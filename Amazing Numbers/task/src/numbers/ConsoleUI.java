@@ -3,20 +3,19 @@ package numbers;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.Set;
 
 public class ConsoleUI {
     private final Scanner scanner;
-    private final AmazingNumbers amazingNumbers;
+    private final NumberService numberService;
     private final RequestValidator requestValidator;
 
-    public ConsoleUI(Scanner scanner, AmazingNumbers amazingNumbers, RequestValidator requestValidator) {
+    public ConsoleUI(Scanner scanner, NumberService numberService, RequestValidator requestValidator) {
         this.scanner = scanner;
-        this.amazingNumbers = amazingNumbers;
+        this.numberService = numberService;
         this.requestValidator = requestValidator;
     }
 
-    public void printInstructions() {
+    private void printInstructions() {
         System.out.println("""
                 Welcome to Amazing Numbers!
                 
@@ -34,7 +33,7 @@ public class ConsoleUI {
     public void run() {
         printInstructions();
 
-        boolean running  = true;
+        boolean running = true;
         while (running) {
             System.out.println();
             System.out.print("Enter a request: ");
@@ -46,52 +45,50 @@ public class ConsoleUI {
             UserRequest userRequest;
             try {
                 userRequest = requestValidator.validate(request);
+                running = handleRequest(userRequest);
             } catch (InvalidRequestException ire) {
                 System.out.println(ire.getMessage());
-                continue;
             }
-            running = requestHandler(userRequest);
-
         }
     }
 
-    private boolean requestHandler(UserRequest userRequest) {
+    private boolean handleRequest(UserRequest userRequest) {
         switch (userRequest) {
             case SingleRequest r -> {
                 if (r.start() == 0) {
                     exit();
                     return false;
                 }
-                print(amazingNumbers.processRequest(r));
+                print(numberService.processRequest(r));
             }
-            case ListRequest r -> print(amazingNumbers.processRequest(r));
-            case ListWithPropertiesRequest r -> print(amazingNumbers.processRequest(r));
+            case ListRequest r -> print(numberService.processRequest(r));
+            case ListWithPropertiesRequest r -> print(numberService.processRequest(r));
         }
         return true;
     }
 
-    private void print(AmazingNumbers.NumberResult numberResult) {
-        long number = numberResult.number();
-        Set<Property> trueProperties = numberResult.trueProperties();
-
-        System.out.println("Properties of " + number);
+    private void print(NumberResult numberResult) {
+        System.out.println("Properties of " + numberResult.number());
         for (Property p : Property.values()) {
-            System.out.printf("%s: %b%n", p.name().toLowerCase(), trueProperties.contains(p));
+            System.out.printf("%s: %b%n", p.displayName(),
+                    numberResult.trueProperties().contains(p));
         }
     }
 
-    private void print(List<AmazingNumbers.NumberResult> numbersResult) {
-        for (AmazingNumbers.NumberResult numberResult : numbersResult) {
-            long number = numberResult.number();
-            Set<Property> trueProperties = numberResult.trueProperties();
-
-            List<String> propertiesList = new ArrayList<>();
-            for (Property p : trueProperties) {
-                propertiesList.add(p.name().toLowerCase());
-            }
-            String properties = String.join(", ", propertiesList);
-            System.out.println(number + " is " + properties);
+    private void print(List<NumberResult> numbersResult) {
+        for (NumberResult numberResult : numbersResult) {
+            System.out.println(formatShort(numberResult));
         }
+    }
+
+    private String formatShort(NumberResult numberResult) {
+        List<String> propertiesList = new ArrayList<>();
+
+        for (Property p : numberResult.trueProperties()) {
+            propertiesList.add(p.displayName());
+        }
+
+        return numberResult.number() + " is " + String.join(", ", propertiesList);
     }
 
     private static void exit() {

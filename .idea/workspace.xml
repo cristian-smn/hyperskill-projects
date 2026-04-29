@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65f14b22-b874-4a6c-8036-c979be9f520a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/NumberResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_938" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage_v3/refs/stage_938" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/AmazingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/AmazingNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/ConsoleUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/ConsoleUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/Property.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/RequestValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/out/production/classes/numbers/RequestValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/AmazingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/AmazingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazing Numbers/Happy and Sad numbers/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/Happy and Sad numbers/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/AmazingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/NumberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/ConsoleUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/Property.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/RequestValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazing Numbers/task/src/numbers/RequestValidator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +33,7 @@
         <option value="Exception" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -36,12 +41,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/AmazingNumbers.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/ConsoleUI.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/InvalidRequestException.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/ListRequest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/ListWithPropertiesRequest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/NumberResult.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/Property.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/RequestValidator.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Amazing Numbers/task/src/numbers/SingleRequest.java" root0="FORCE_HIGHLIGHTING" />
@@ -101,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776782327570</updated>
-      <workItem from="1777447145063" duration="48687000" />
+      <workItem from="1777447145063" duration="51739000" />
     </task>
     <servers />
   </component>

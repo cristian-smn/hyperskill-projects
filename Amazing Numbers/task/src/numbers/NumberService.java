@@ -1,9 +1,11 @@
 package numbers;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
 
-public class AmazingNumbers {
-    public record NumberResult(long number, Set<Property> trueProperties){}
+public class NumberService {
 
     private NumberResult analyzeNumber(long number) {
         Set<Property> trueProperties = new LinkedHashSet<>();
@@ -24,8 +26,8 @@ public class AmazingNumbers {
         int count = userRequest.count();
         List<NumberResult> numbersResult = new ArrayList<>();
 
-        for (long i = start; i < start + count; i++) {
-            numbersResult.add(analyzeNumber(i));
+        for (int i = 0; i < count; i++) {
+            numbersResult.add(analyzeNumber(start + i));
         }
 
         return numbersResult;
@@ -36,12 +38,12 @@ public class AmazingNumbers {
         int count = userRequest.count();
         List<NumberResult> numbersResult = new ArrayList<>();
 
-        long index = start;
+        long number = start;
         while (numbersResult.size() < count) {
-            if (matches(start, userRequest.included(), userRequest.excluded())) {
-                numbersResult.add(analyzeNumber(index));
+            if (matches(number, userRequest.included(), userRequest.excluded())) {
+                numbersResult.add(analyzeNumber(number));
             }
-            index++;
+            number++;
         }
 
         return numbersResult;
