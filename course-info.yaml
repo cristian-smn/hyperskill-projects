@@ -1,15 +1,16 @@
 type: hyperskill
-title: Chuck Norris Cipher Encoder (Java)
+title: Amazing Numbers
 language: English
-summary: "<p>Secret agents use encryption all the time. You know that everything can\
-  \ be encrypted as different characters. What about encryption that uses only one\
-  \ character and space? This method has a name — the Chuck Norris cipher. In this\
-  \ project, you will create a program that can encrypt any text into a sequence of\
-  \ zeros and spaces and decrypt this sequence into text.</p>"
+summary: "<p>We use numbers every day. But do you know how many different properties\
+  \ they have? Let's take a look at some of the amazing properties of numbers. After\
+  \ completing this project, you will write a program that knows how to determine\
+  \ whether a number is Palindromic or Gapful, or how to distinguish Spy numbers from\
+  \ others. Numbers can be fascinating!</p><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/184?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/184</a>"
 programming_language: Java
 programming_language_version: 11
 content:
-  - Chuck Norris Cipher Encoder (Java)
+  - Amazing Numbers
 additional_files:
   - name: build.gradle
     visible: true

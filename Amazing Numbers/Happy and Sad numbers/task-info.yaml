@@ -1,0 +1,59 @@
+type: edu
+files:
+  - name: test/util/Checker.java
+    learner_created: false
+  - name: test/util/LinesChecker.java
+    learner_created: false
+  - name: test/util/RegexChecker.java
+    learner_created: false
+  - name: test/util/TextChecker.java
+    learner_created: false
+  - name: test/util/UserProgram.java
+    learner_created: false
+  - name: test/ListChecker.java
+    learner_created: false
+  - name: test/NumberProperty.java
+    learner_created: false
+  - name: test/NumbersTest.java
+    learner_created: false
+  - name: test/PropertiesChecker.java
+    learner_created: false
+  - name: test/Request.java
+    learner_created: false
+  - name: src/numbers/ListRequest.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/InvalidRequestException.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/ConsoleUI.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/Main.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/AmazingNumbers.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/UserRequest.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/RequestValidator.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/SingleRequest.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/Property.java
+    visible: true
+    learner_created: true
+  - name: src/numbers/ListWithPropertiesRequest.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/184/stages/938/implement#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 29 Apr 2026 21:24:13 UTC"
+record: -1
