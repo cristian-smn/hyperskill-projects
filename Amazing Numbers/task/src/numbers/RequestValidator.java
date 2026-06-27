@@ -3,7 +3,7 @@ package numbers;
 import java.util.*;
 
 public class RequestValidator {
-
+    // TODO: refactor
     private record PropertyFilters(Set<Property> included, Set<Property> excluded){}
 
     private static final List<Set<Property>> MUTUAL_EXCLUSIVE = List.of(

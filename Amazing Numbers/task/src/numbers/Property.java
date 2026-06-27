@@ -70,7 +70,7 @@ public enum Property {
         long copy = num;
         int lastDigit = (int) (num % 10);
 
-        while (copy > 0) {
+        while (copy > 9) {
             copy /= 10;
         }
         int firstDigit = (int) copy;

@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: test/Tests.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/Battleship.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/ConsoleUI.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/Ship.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/InvalidCoordonatesException.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/Coordinate.java
+    visible: true
+    learner_created: false
+  - name: src/battleship/ShipType.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/383/stages/2286/implement#comment
+status: Solved
+record: -1

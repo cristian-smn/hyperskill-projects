@@ -1,36 +1,34 @@
 hyperskill_project:
-  id: 184
-  ide_files: https://hyperskill.org/api/projects/184/additional-files/additional_files.json
+  id: 383
+  ide_files: https://hyperskill.org/api/projects/383/additional-files/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Wed, 29 Apr 2026 17:19:08 UTC"
+update_date: "Fri, 05 Jun 2026 13:00:35 UTC"
 stages:
-  - id: 931
-    step: 13198
+  - id: 2281
+    step: 35304
     is_completed: true
-  - id: 932
-    step: 13199
+  - id: 2282
+    step: 35305
     is_completed: true
-  - id: 933
-    step: 13200
+  - id: 2283
+    step: 35306
     is_completed: true
-  - id: 934
-    step: 13201
+  - id: 2284
+    step: 35307
     is_completed: true
-  - id: 935
-    step: 13202
+  - id: 2285
+    step: 35308
     is_completed: true
-  - id: 936
-    step: 13203
-    is_completed: true
-  - id: 937
-    step: 13204
-    is_completed: true
-  - id: 938
-    step: 13205
+  - id: 2286
+    step: 35309
     is_completed: true
 topics:
   0:
+    - title: "Write, compile, and run"
+      theory_id: 3739
+    - title: IDE
+      theory_id: 10996
     - title: Introduction to Java
       theory_id: 38627
     - title: "Basic literals: numbers, strings and characters"
@@ -53,6 +51,8 @@ topics:
       theory_id: 3519
     - title: Integer types and operations
       theory_id: 3565
+    - title: Increment and decrement
+      theory_id: 5008
     - title: Floating-point types and operations
       theory_id: 3517
     - title: Boolean type and operations. True and false
@@ -63,13 +63,6 @@ topics:
       theory_id: 3503
     - title: One-line condition with ternary operator
       theory_id: 3506
-    - title: Primitive data types and their sizes
-      theory_id: 3532
-  2:
-    - title: IDE
-      theory_id: 10996
-    - title: Increment and decrement
-      theory_id: 5008
     - title: For loop
       theory_id: 3505
     - title: While and do-while loops
@@ -84,17 +77,8 @@ topics:
       theory_id: 3504
     - title: Functional decomposition
       theory_id: 10570
-    - title: What are bugs
-      theory_id: 5504
-    - title: IntelliJ IDEA
-      theory_id: 37202
-    - title: Debugging overview
-      theory_id: 14368
-    - title: Run and debug with IntelliJ IDEA
-      theory_id: 37206
-    - title: Debugging simple constructs
-      theory_id: 16479
-  3:
+    - title: Primitive data types and their sizes
+      theory_id: 3532
     - title: Type casting
       theory_id: 3510
     - title: Calling methods
@@ -103,19 +87,16 @@ topics:
       theory_id: 5035
     - title: Array
       theory_id: 3511
-    - title: Characters
-      theory_id: 3514
-    - title: String
-      theory_id: 3523
-    - title: Processing strings
-      theory_id: 3551
-  4:
-    - title: "Write, compile, and run"
-      theory_id: 3739
     - title: Arrays as parameters
       theory_id: 3594
     - title: Overloading
       theory_id: 3525
+    - title: Iterating over arrays
+      theory_id: 3602
+    - title: Characters
+      theory_id: 3514
+    - title: String
+      theory_id: 3523
     - title: Errors in programs
       theory_id: 3536
     - title: First glance at exceptions
@@ -124,12 +105,24 @@ topics:
       theory_id: 3614
     - title: Hierarchy of exceptions
       theory_id: 3570
-    - title: StringBuilder
-      theory_id: 3812
+    - title: What are bugs
+      theory_id: 5504
+    - title: Formatted output
+      theory_id: 7046
+    - title: Multidimensional array
+      theory_id: 1933
     - title: Introduction to logging
       theory_id: 5538
     - title: Debugging techniques
       theory_id: 13775
+    - title: IntelliJ IDEA
+      theory_id: 37202
+    - title: Debugging overview
+      theory_id: 14368
+    - title: Run and debug with IntelliJ IDEA
+      theory_id: 37206
+    - title: Debugging simple constructs
+      theory_id: 16479
     - title: Defining classes
       theory_id: 3618
     - title: Instance methods
@@ -148,11 +141,20 @@ topics:
       theory_id: 3538
     - title: Keyword "super"
       theory_id: 3588
+  1:
+    - title: NullPointerException
+      theory_id: 1945
+    - title: Exception handling
+      theory_id: 3552
+    - title: StringBuilder
+      theory_id: 3812
+    - title: Array exceptions
+      theory_id: 1940
+    - title: java.util.Arrays
+      theory_id: 19365
     - title: Objects and their properties
       theory_id: 4727
-  6:
-    - title: Iterating over arrays
-      theory_id: 3602
+  3:
     - title: Constants. Final variables
       theory_id: 7427
     - title: Debugging methods
@@ -163,6 +165,16 @@ topics:
       theory_id: 11514
     - title: Fields and methods in enum
       theory_id: 11523
-  7:
-    - title: Formatted output
-      theory_id: 7046
+  5:
+    - title: Protected modifier
+      theory_id: 6692
+    - title: Referencing subclass objects
+      theory_id: 3585
+    - title: Adding annotations
+      theory_id: 3622
+    - title: Method overriding
+      theory_id: 3572
+    - title: Polymorphism
+      theory_id: 3587
+    - title: Abstract class
+      theory_id: 3597
